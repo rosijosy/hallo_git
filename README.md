@@ -12,3 +12,5 @@ etwas neues
 etwas ganz neues
 
 etwas gaaanz neues
+
+etwas rechtig neues
