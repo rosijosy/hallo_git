@@ -1,4 +1,6 @@
-
+access.log
+auth.log
+error.log
 #.gitignore
 #HALLLLLOO
 unwantedfolder
